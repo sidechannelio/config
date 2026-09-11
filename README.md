@@ -154,7 +154,7 @@ When I'm not staring at a terminal:
 ---
 
 ## 📊 GitHub Stats
-  [![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sidechannelio)](https://github.com/sidechannelio&show_icons=true&theme=dracula)
+  ![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sidechannelio&show_icons=true&theme=dracula)
 
 ---
 

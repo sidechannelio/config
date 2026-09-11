@@ -42,6 +42,14 @@ This is part software project and part learning exercise — exploring Linux des
 
 ---
 
+### 🧘🏼‍♂️ [Still](https://github.com/sidechannelio/still)
+
+Markdown without the noise. A fast, focused Markdown reader and editor for Windows, macOS, and Linux. 
+
+**Cross-platform · Rust · Tauri · Tyepscript**
+
+---
+
 ### 🏠 Homelab & Self-Hosting
 
 My homelab is my **hands-on infrastructure laboratory**.
@@ -82,7 +90,7 @@ My homelab is essentially a **permanent hands-on laboratory** — part infrastru
 
 ---
 
-## 🧠 How I Think About Code
+## 🤔 How I Think About Code
 
 * **Build it to understand it.**
 * Offline-first beats cloud-only.
@@ -143,18 +151,8 @@ When I'm not staring at a terminal:
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/sidechannelio"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/paulmata"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/iampaulmata"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
-
----
-
 ## 📊 GitHub Stats
-  ![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sidechannelio&show_icons=true&theme=dracula)
+  ![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sidechannelio&show_icons=true&theme=ocean_dark)
 
 ---
 
